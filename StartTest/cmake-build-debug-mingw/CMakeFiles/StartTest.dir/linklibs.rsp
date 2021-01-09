@@ -1,0 +1,1 @@
+  -LD:/freeglut/lib/x64  -LD:/glew/lib/Release/x64  -Wl,-Bstatic -lopengl32 -lfreeglut -Wl,-Bdynamic -lglew32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
